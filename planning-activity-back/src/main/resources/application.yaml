@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: planning-activity
+
+server:
+  port: 8080
+
